@@ -1,0 +1,224 @@
+{
+  "treinos": [
+    {
+      "id": "kettlebell-1",
+      "nome": "Kettlebell · corpo todo",
+      "descricao": "Aquecimento, força, finisher e volta à calma",
+      "fases": [
+        {
+          "id": "p1",
+          "aba": "Aquecimento",
+          "titulo": "Aquecimento e mobilidade",
+          "tempo": "10 a 15 min",
+          "intro": "Lubrifique as articulações antes de pegar peso.",
+          "chips": ["Em sequência", "Sem descanso"],
+          "exercicios": [
+            {
+              "id": "mob",
+              "nome": "Mobilidade articular",
+              "prescricao": "10 a 20 rotações por articulação",
+              "descricao": "Gire ombros, quadris e pescoço. Se preferir, faça 5 minutos no total.",
+              "busca": "mobilidade articular aquecimento",
+              "timer": [{ "label": "Mobilidade articular", "segundos": 300 }],
+              "videos": ["jUft857xWzw", "l1SE7PdApEE", { "id": "RJTezdqvB2A", "tipo": "video" }]
+            },
+            {
+              "id": "hip",
+              "nome": "Hip flexor to hamstring stretch",
+              "prescricao": "30 s de cada lado",
+              "descricao": "Em meio ajoelhamento, contraia o glúteo da perna de trás e leve os quadris à frente, com a lombar reta.",
+              "busca": "half kneeling hip flexor to hamstring stretch",
+              "timer": [
+                { "label": "Hip flexor · lado direito", "segundos": 30 },
+                { "label": "Hip flexor · lado esquerdo", "segundos": 30 }
+              ],
+              "videos": [
+                { "id": "eZUi5HzaSSM", "tipo": "video" },
+                { "id": "HUxyBCMplLI", "tipo": "video" },
+                "CLAl-razYow"
+              ]
+            },
+            {
+              "id": "car",
+              "nome": "Shoulder CARs",
+              "prescricao": "30 s de cada lado",
+              "descricao": "Ainda em meio ajoelhamento, gire o braço totalmente estendido para cima e ao redor, em toda a amplitude.",
+              "busca": "shoulder CARs controlled articular rotations",
+              "timer": [
+                { "label": "Shoulder CARs · lado direito", "segundos": 30 },
+                { "label": "Shoulder CARs · lado esquerdo", "segundos": 30 }
+              ],
+              "videos": ["GKxIfKJXol0", "6fPTRcKhaZU", { "id": "Re7zz8uc9lk", "tipo": "video" }]
+            },
+            {
+              "id": "pend",
+              "nome": "Pendulum squat",
+              "prescricao": "Contínuo, como um pêndulo",
+              "descricao": "Em pé, braços levantados: leve os quadris para trás e alcance o chão para alongar os isquiotibiais. Desça para um agachamento profundo balançando os braços para cima, de forma rítmica.",
+              "busca": "deep squat to hamstring stretch mobility",
+              "videos": ["ILQe23L2vWM", "jMlgaz0Z9No", { "id": "Y63JXUVlSp0", "tipo": "video" }]
+            }
+          ]
+        },
+        {
+          "id": "p2",
+          "aba": "Força",
+          "titulo": "Força e resistência",
+          "tempo": "30 a 35 min",
+          "intro": "Circuito contínuo. Descanse só no fim de cada round.",
+          "chips": ["3 rounds", "1 min de pausa entre rounds"],
+          "rounds": 3,
+          "descanso": 60,
+          "exercicios": [
+            {
+              "id": "swing",
+              "nome": "Single swing",
+              "prescricao": "10 por lado",
+              "descricao": "Balanço do kettlebell entre as pernas com um braço só, usando a explosão do quadril.",
+              "busca": "kettlebell single arm swing",
+              "videos": ["wtCy8_-IE-c", "5ESeF0kmo0k", "-awVOEuIkdQ"]
+            },
+            {
+              "id": "clean",
+              "nome": "Single clean",
+              "prescricao": "10 por lado",
+              "descricao": "Traga o kettlebell de forma explosiva até a altura do ombro, na posição de rack.",
+              "busca": "kettlebell single clean",
+              "videos": ["SM6f8WNKjNc", "bvmgMV3-z7g", "tsJsgzcqBJU"]
+            },
+            {
+              "id": "press",
+              "nome": "Single press",
+              "prescricao": "10 por lado",
+              "descricao": "Empurre o kettlebell do ombro até acima da cabeça.",
+              "busca": "kettlebell single arm press",
+              "videos": ["CAx-Goxg6OI", "OHo4GZHem7U", "E7WRJtfsiO4"]
+            },
+            {
+              "id": "snatch",
+              "nome": "Snatch",
+              "prescricao": "10 por lado",
+              "descricao": "Leve o kettlebell do balanço entre as pernas direto para cima da cabeça, em um único movimento.",
+              "busca": "kettlebell snatch",
+              "videos": ["8urw8HUw3C0", "WJn-yrKPnfg", "qoGuA1wI120"]
+            },
+            {
+              "id": "goblet",
+              "nome": "Goblet squat",
+              "prescricao": "10 repetições",
+              "descricao": "Agache fundo segurando o kettlebell na altura do peito com as duas mãos.",
+              "busca": "kettlebell goblet squat",
+              "videos": ["PkCljShXeGQ", "gh6N4jUrq_0", "aoKFeBtQvtg"]
+            }
+          ]
+        },
+        {
+          "id": "p3",
+          "aba": "Finisher",
+          "titulo": "Cardio finisher · Tabata",
+          "tempo": "4 a 5 min",
+          "intro": "Os três exercícios se alternam a cada round.",
+          "chips": ["8 rounds", "20 s on / 10 s off"],
+          "tabata": { "rounds": 8, "trabalho": 20, "descanso": 10 },
+          "exercicios": [
+            {
+              "id": "burpee",
+              "nome": "Burpees",
+              "prescricao": "20 s em intensidade máxima",
+              "descricao": "Flexão seguida de salto explosivo.",
+              "busca": "burpee how to",
+              "videos": ["RevoEOa_Esw", "zYBkodZ1SRU", "tmLCersh93U"]
+            },
+            {
+              "id": "ksw",
+              "nome": "Kettlebell swings",
+              "prescricao": "20 s em intensidade máxima",
+              "descricao": "Balanços intensos, focando na cadeia posterior.",
+              "busca": "kettlebell swing form",
+              "videos": ["9TvZBjLFEbs", "KUGEAe0aZ2A"]
+            },
+            {
+              "id": "rope",
+              "nome": "Pular corda",
+              "prescricao": "20 s em intensidade máxima",
+              "descricao": "Coordenação rápida de pés, mantendo a frequência cardíaca alta.",
+              "busca": "pular corda técnica iniciante",
+              "videos": ["iKivDcqeKyo", "dW3wU0ZlvS0", "cfnqZhB0dEM"]
+            }
+          ]
+        },
+        {
+          "id": "p4",
+          "aba": "Volta",
+          "titulo": "Resfriamento",
+          "tempo": "5 min",
+          "intro": "Segure cada alongamento no máximo tolerável, sem dor.",
+          "chips": ["1 min por posição", "6 posições"],
+          "exercicios": [
+            {
+              "id": "c1",
+              "nome": "Ombros atrás das costas",
+              "prescricao": "1 min",
+              "descricao": "Entrelace as mãos atrás das costas e abra o peito.",
+              "busca": "alongamento ombros atrás das costas",
+              "timer": [{ "label": "Ombros atrás das costas", "segundos": 60 }],
+              "videos": [
+                { "id": "iFO5kSnp-zE", "tipo": "video" },
+                { "id": "6zczuiRx5pk", "tipo": "video" },
+                { "id": "BZT-GBZ--I0", "tipo": "video" }
+              ]
+            },
+            {
+              "id": "c2",
+              "nome": "Joelho ao peito em pé",
+              "prescricao": "1 min",
+              "descricao": "Em pé, puxe um joelho ao peito. Troque a perna na metade do tempo.",
+              "busca": "alongamento joelho ao peito em pé",
+              "timer": [{ "label": "Joelho ao peito", "segundos": 60 }],
+              "videos": [
+                { "id": "ovgnoeaaZRI", "tipo": "video" },
+                { "id": "2uCZbKBySQE", "tipo": "video" }
+              ]
+            },
+            {
+              "id": "c3",
+              "nome": "Isquiotibiais em pé",
+              "prescricao": "1 min",
+              "descricao": "Alongue a parte de trás da coxa mantendo a coluna alongada.",
+              "busca": "alongamento isquiotibiais em pé",
+              "timer": [{ "label": "Isquiotibiais", "segundos": 60 }],
+              "videos": ["TZVJY8BwjyA", "2GNYV8I_Jws", "0zepzp5kXBo"]
+            },
+            {
+              "id": "c4",
+              "nome": "Quadríceps em pé",
+              "prescricao": "1 min",
+              "descricao": "Em pé, leve o calcanhar ao glúteo. Troque a perna na metade do tempo.",
+              "busca": "alongamento quadríceps em pé",
+              "timer": [{ "label": "Quadríceps", "segundos": 60 }],
+              "videos": ["rZnU2So0rCU", "qBYpC50YDQU", "4xwlljb0Vtk"]
+            },
+            {
+              "id": "c5",
+              "nome": "Extensão da coluna (cobra)",
+              "prescricao": "1 min",
+              "descricao": "Deitado de bruços, empurre o tronco para cima com os braços, sem forçar a lombar.",
+              "busca": "postura da cobra yoga",
+              "timer": [{ "label": "Cobra", "segundos": 60 }],
+              "videos": ["CATIG2-7Yts", "fGBzMKzFyRk", { "id": "Q5G8CYAGs0U", "tipo": "video" }]
+            },
+            {
+              "id": "c6",
+              "nome": "Postura da criança",
+              "prescricao": "1 min",
+              "descricao": "Sente sobre os calcanhares e estenda os braços à frente para soltar a lombar.",
+              "busca": "postura da criança yoga",
+              "timer": [{ "label": "Postura da criança", "segundos": 60 }],
+              "videos": ["Hm_ec0_fe_o", "2geR7gOGsEs", "YAmAET3Uomk"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
