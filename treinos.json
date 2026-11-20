@@ -529,16 +529,19 @@
           "id": "p3",
           "aba": "Smoker",
           "titulo": "Cardio smoker · Tabata",
-          "tempo": "4,5 min",
-          "intro": "Abordagem rápida: um bloco de 8 rounds alternando flexão, agachamento e abdominal. Versão avançada (\"Mar grande\"): um tabata inteiro só de flexões, 1 min de descanso, um de abdominais, 1 min de descanso, um de agachamentos.",
+          "tempo": "~16 min",
+          "intro": "Versão \"Mar grande\": um tabata inteiro de cada exercício, com 1 min de descanso entre eles.",
           "chips": [
-            "8 rounds",
-            "20 s on / 10 s off"
+            "3 tabatas × 8 rounds",
+            "20 s on / 10 s off",
+            "1 min entre tabatas"
           ],
           "tabata": {
             "rounds": 8,
             "trabalho": 20,
-            "descanso": 10
+            "descanso": 10,
+            "sequencial": true,
+            "pausa": 60
           },
           "exercicios": [
             {
@@ -554,18 +557,6 @@
               ]
             },
             {
-              "id": "sq",
-              "nome": "Agachamento",
-              "prescricao": "20 s em intensidade máxima",
-              "descricao": "Pés na largura do quadril, desça com o peito aberto e suba com força.",
-              "busca": "bodyweight squat form",
-              "videos": [
-                "H9GIaOK2vBc",
-                "Qgpxx1Bxmgs",
-                "IYOMod4X25Y"
-              ]
-            },
-            {
               "id": "su",
               "nome": "Abdominal (sit-up)",
               "prescricao": "20 s em intensidade máxima",
@@ -578,6 +569,18 @@
                   "id": "p8vthDMZs4I",
                   "tipo": "video"
                 }
+              ]
+            },
+            {
+              "id": "sq",
+              "nome": "Agachamento",
+              "prescricao": "20 s em intensidade máxima",
+              "descricao": "Pés na largura do quadril, desça com o peito aberto e suba com força.",
+              "busca": "bodyweight squat form",
+              "videos": [
+                "H9GIaOK2vBc",
+                "Qgpxx1Bxmgs",
+                "IYOMod4X25Y"
               ]
             }
           ]

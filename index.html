@@ -358,6 +358,15 @@ main{max-width:640px;margin:0 auto;padding:6px 14px}
     if(d.tabata){
       var f3=faseAtual(), tb=f3.tabata, steps=[], ex=f3.exercicios;
       steps.push({label:'Prepare-se',secs:5,kind:'rest',noCount:true});
+      if(tb.sequencial){
+        for(var b=0;b<ex.length;b++){
+          for(var r=0;r<tb.rounds;r++){
+            steps.push({label:ex[b].nome,secs:tb.trabalho,kind:'work',round:r+1,total:tb.rounds});
+            if(r<tb.rounds-1) steps.push({label:'Descanso · '+ex[b].nome,secs:tb.descanso,kind:'rest',round:r+1,total:tb.rounds});
+          }
+          if(b<ex.length-1) steps.push({label:'Pausa · próximo: '+ex[b+1].nome,secs:tb.pausa||60,kind:'rest',noCount:true});
+        }
+      }else
       for(var i=0;i<tb.rounds;i++){
         steps.push({label:ex[i%ex.length].nome,secs:tb.trabalho,kind:'work',round:i+1,total:tb.rounds});
         if(i<tb.rounds-1) steps.push({label:'Descanso · próximo: '+ex[(i+1)%ex.length].nome,secs:tb.descanso,kind:'rest',round:i+1,total:tb.rounds});
