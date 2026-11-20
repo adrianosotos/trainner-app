@@ -11,7 +11,10 @@
           "titulo": "Aquecimento e mobilidade",
           "tempo": "10 a 15 min",
           "intro": "Lubrifique as articulações antes de pegar peso.",
-          "chips": ["Em sequência", "Sem descanso"],
+          "chips": [
+            "Em sequência",
+            "Sem descanso"
+          ],
           "exercicios": [
             {
               "id": "mob",
@@ -19,8 +22,20 @@
               "prescricao": "10 a 20 rotações por articulação",
               "descricao": "Gire ombros, quadris e pescoço. Se preferir, faça 5 minutos no total.",
               "busca": "mobilidade articular aquecimento",
-              "timer": [{ "label": "Mobilidade articular", "segundos": 300 }],
-              "videos": ["jUft857xWzw", "l1SE7PdApEE", { "id": "RJTezdqvB2A", "tipo": "video" }]
+              "timer": [
+                {
+                  "label": "Mobilidade articular",
+                  "segundos": 300
+                }
+              ],
+              "videos": [
+                "jUft857xWzw",
+                "l1SE7PdApEE",
+                {
+                  "id": "RJTezdqvB2A",
+                  "tipo": "video"
+                }
+              ]
             },
             {
               "id": "hip",
@@ -29,12 +44,24 @@
               "descricao": "Em meio ajoelhamento, contraia o glúteo da perna de trás e leve os quadris à frente, com a lombar reta.",
               "busca": "half kneeling hip flexor to hamstring stretch",
               "timer": [
-                { "label": "Hip flexor · lado direito", "segundos": 30 },
-                { "label": "Hip flexor · lado esquerdo", "segundos": 30 }
+                {
+                  "label": "Hip flexor · lado direito",
+                  "segundos": 30
+                },
+                {
+                  "label": "Hip flexor · lado esquerdo",
+                  "segundos": 30
+                }
               ],
               "videos": [
-                { "id": "eZUi5HzaSSM", "tipo": "video" },
-                { "id": "HUxyBCMplLI", "tipo": "video" },
+                {
+                  "id": "eZUi5HzaSSM",
+                  "tipo": "video"
+                },
+                {
+                  "id": "HUxyBCMplLI",
+                  "tipo": "video"
+                },
                 "CLAl-razYow"
               ]
             },
@@ -45,10 +72,23 @@
               "descricao": "Ainda em meio ajoelhamento, gire o braço totalmente estendido para cima e ao redor, em toda a amplitude.",
               "busca": "shoulder CARs controlled articular rotations",
               "timer": [
-                { "label": "Shoulder CARs · lado direito", "segundos": 30 },
-                { "label": "Shoulder CARs · lado esquerdo", "segundos": 30 }
+                {
+                  "label": "Shoulder CARs · lado direito",
+                  "segundos": 30
+                },
+                {
+                  "label": "Shoulder CARs · lado esquerdo",
+                  "segundos": 30
+                }
               ],
-              "videos": ["GKxIfKJXol0", "6fPTRcKhaZU", { "id": "Re7zz8uc9lk", "tipo": "video" }]
+              "videos": [
+                "GKxIfKJXol0",
+                "6fPTRcKhaZU",
+                {
+                  "id": "Re7zz8uc9lk",
+                  "tipo": "video"
+                }
+              ]
             },
             {
               "id": "pend",
@@ -56,7 +96,14 @@
               "prescricao": "Contínuo, como um pêndulo",
               "descricao": "Em pé, braços levantados: leve os quadris para trás e alcance o chão para alongar os isquiotibiais. Desça para um agachamento profundo balançando os braços para cima, de forma rítmica.",
               "busca": "deep squat to hamstring stretch mobility",
-              "videos": ["ILQe23L2vWM", "jMlgaz0Z9No", { "id": "Y63JXUVlSp0", "tipo": "video" }]
+              "videos": [
+                "ILQe23L2vWM",
+                "jMlgaz0Z9No",
+                {
+                  "id": "Y63JXUVlSp0",
+                  "tipo": "video"
+                }
+              ]
             }
           ]
         },
@@ -66,7 +113,10 @@
           "titulo": "Força e resistência",
           "tempo": "30 a 35 min",
           "intro": "Circuito contínuo. Descanse só no fim de cada round.",
-          "chips": ["3 rounds", "1 min de pausa entre rounds"],
+          "chips": [
+            "3 rounds",
+            "1 min de pausa entre rounds"
+          ],
           "rounds": 3,
           "descanso": 60,
           "exercicios": [
@@ -76,7 +126,11 @@
               "prescricao": "10 por lado",
               "descricao": "Balanço do kettlebell entre as pernas com um braço só, usando a explosão do quadril.",
               "busca": "kettlebell single arm swing",
-              "videos": ["wtCy8_-IE-c", "5ESeF0kmo0k", "-awVOEuIkdQ"]
+              "videos": [
+                "wtCy8_-IE-c",
+                "5ESeF0kmo0k",
+                "-awVOEuIkdQ"
+              ]
             },
             {
               "id": "clean",
@@ -84,7 +138,11 @@
               "prescricao": "10 por lado",
               "descricao": "Traga o kettlebell de forma explosiva até a altura do ombro, na posição de rack.",
               "busca": "kettlebell single clean",
-              "videos": ["SM6f8WNKjNc", "bvmgMV3-z7g", "tsJsgzcqBJU"]
+              "videos": [
+                "SM6f8WNKjNc",
+                "bvmgMV3-z7g",
+                "tsJsgzcqBJU"
+              ]
             },
             {
               "id": "press",
@@ -92,7 +150,11 @@
               "prescricao": "10 por lado",
               "descricao": "Empurre o kettlebell do ombro até acima da cabeça.",
               "busca": "kettlebell single arm press",
-              "videos": ["CAx-Goxg6OI", "OHo4GZHem7U", "E7WRJtfsiO4"]
+              "videos": [
+                "CAx-Goxg6OI",
+                "OHo4GZHem7U",
+                "E7WRJtfsiO4"
+              ]
             },
             {
               "id": "snatch",
@@ -100,7 +162,11 @@
               "prescricao": "10 por lado",
               "descricao": "Leve o kettlebell do balanço entre as pernas direto para cima da cabeça, em um único movimento.",
               "busca": "kettlebell snatch",
-              "videos": ["8urw8HUw3C0", "WJn-yrKPnfg", "qoGuA1wI120"]
+              "videos": [
+                "8urw8HUw3C0",
+                "WJn-yrKPnfg",
+                "qoGuA1wI120"
+              ]
             },
             {
               "id": "goblet",
@@ -108,7 +174,11 @@
               "prescricao": "10 repetições",
               "descricao": "Agache fundo segurando o kettlebell na altura do peito com as duas mãos.",
               "busca": "kettlebell goblet squat",
-              "videos": ["PkCljShXeGQ", "gh6N4jUrq_0", "aoKFeBtQvtg"]
+              "videos": [
+                "PkCljShXeGQ",
+                "gh6N4jUrq_0",
+                "aoKFeBtQvtg"
+              ]
             }
           ]
         },
@@ -118,8 +188,15 @@
           "titulo": "Cardio finisher · Tabata",
           "tempo": "4 a 5 min",
           "intro": "Os três exercícios se alternam a cada round.",
-          "chips": ["8 rounds", "20 s on / 10 s off"],
-          "tabata": { "rounds": 8, "trabalho": 20, "descanso": 10 },
+          "chips": [
+            "8 rounds",
+            "20 s on / 10 s off"
+          ],
+          "tabata": {
+            "rounds": 8,
+            "trabalho": 20,
+            "descanso": 10
+          },
           "exercicios": [
             {
               "id": "burpee",
@@ -127,7 +204,11 @@
               "prescricao": "20 s em intensidade máxima",
               "descricao": "Flexão seguida de salto explosivo.",
               "busca": "burpee how to",
-              "videos": ["RevoEOa_Esw", "zYBkodZ1SRU", "tmLCersh93U"]
+              "videos": [
+                "RevoEOa_Esw",
+                "zYBkodZ1SRU",
+                "tmLCersh93U"
+              ]
             },
             {
               "id": "ksw",
@@ -135,7 +216,10 @@
               "prescricao": "20 s em intensidade máxima",
               "descricao": "Balanços intensos, focando na cadeia posterior.",
               "busca": "kettlebell swing form",
-              "videos": ["9TvZBjLFEbs", "KUGEAe0aZ2A"]
+              "videos": [
+                "9TvZBjLFEbs",
+                "KUGEAe0aZ2A"
+              ]
             },
             {
               "id": "rope",
@@ -143,7 +227,11 @@
               "prescricao": "20 s em intensidade máxima",
               "descricao": "Coordenação rápida de pés, mantendo a frequência cardíaca alta.",
               "busca": "pular corda técnica iniciante",
-              "videos": ["iKivDcqeKyo", "dW3wU0ZlvS0", "cfnqZhB0dEM"]
+              "videos": [
+                "iKivDcqeKyo",
+                "dW3wU0ZlvS0",
+                "cfnqZhB0dEM"
+              ]
             }
           ]
         },
@@ -153,7 +241,10 @@
           "titulo": "Resfriamento",
           "tempo": "5 min",
           "intro": "Segure cada alongamento no máximo tolerável, sem dor.",
-          "chips": ["1 min por posição", "6 posições"],
+          "chips": [
+            "1 min por posição",
+            "6 posições"
+          ],
           "exercicios": [
             {
               "id": "c1",
@@ -161,11 +252,25 @@
               "prescricao": "1 min",
               "descricao": "Entrelace as mãos atrás das costas e abra o peito.",
               "busca": "alongamento ombros atrás das costas",
-              "timer": [{ "label": "Ombros atrás das costas", "segundos": 60 }],
+              "timer": [
+                {
+                  "label": "Ombros atrás das costas",
+                  "segundos": 60
+                }
+              ],
               "videos": [
-                { "id": "iFO5kSnp-zE", "tipo": "video" },
-                { "id": "6zczuiRx5pk", "tipo": "video" },
-                { "id": "BZT-GBZ--I0", "tipo": "video" }
+                {
+                  "id": "iFO5kSnp-zE",
+                  "tipo": "video"
+                },
+                {
+                  "id": "6zczuiRx5pk",
+                  "tipo": "video"
+                },
+                {
+                  "id": "BZT-GBZ--I0",
+                  "tipo": "video"
+                }
               ]
             },
             {
@@ -174,11 +279,21 @@
               "prescricao": "1 min",
               "descricao": "Em pé, puxe um joelho ao peito. Troque a perna na metade do tempo.",
               "busca": "alongamento joelho ao peito em pé",
-              "timer": [{ "label": "Joelho ao peito", "segundos": 60 }],
+              "timer": [
+                {
+                  "label": "Joelho ao peito",
+                  "segundos": 60
+                }
+              ],
               "videos": [
-                "Ei1rPBh_5Ls",
-                { "id": "ovgnoeaaZRI", "tipo": "video" },
-                { "id": "2uCZbKBySQE", "tipo": "video" }
+                {
+                  "id": "ovgnoeaaZRI",
+                  "tipo": "video"
+                },
+                {
+                  "id": "2uCZbKBySQE",
+                  "tipo": "video"
+                }
               ]
             },
             {
@@ -187,8 +302,17 @@
               "prescricao": "1 min",
               "descricao": "Alongue a parte de trás da coxa mantendo a coluna alongada.",
               "busca": "alongamento isquiotibiais em pé",
-              "timer": [{ "label": "Isquiotibiais", "segundos": 60 }],
-              "videos": ["TZVJY8BwjyA", "2GNYV8I_Jws", "0zepzp5kXBo"]
+              "timer": [
+                {
+                  "label": "Isquiotibiais",
+                  "segundos": 60
+                }
+              ],
+              "videos": [
+                "TZVJY8BwjyA",
+                "2GNYV8I_Jws",
+                "0zepzp5kXBo"
+              ]
             },
             {
               "id": "c4",
@@ -196,8 +320,17 @@
               "prescricao": "1 min",
               "descricao": "Em pé, leve o calcanhar ao glúteo. Troque a perna na metade do tempo.",
               "busca": "alongamento quadríceps em pé",
-              "timer": [{ "label": "Quadríceps", "segundos": 60 }],
-              "videos": ["rZnU2So0rCU", "qBYpC50YDQU", "4xwlljb0Vtk"]
+              "timer": [
+                {
+                  "label": "Quadríceps",
+                  "segundos": 60
+                }
+              ],
+              "videos": [
+                "rZnU2So0rCU",
+                "qBYpC50YDQU",
+                "4xwlljb0Vtk"
+              ]
             },
             {
               "id": "c5",
@@ -205,8 +338,20 @@
               "prescricao": "1 min",
               "descricao": "Deitado de bruços, empurre o tronco para cima com os braços, sem forçar a lombar.",
               "busca": "postura da cobra yoga",
-              "timer": [{ "label": "Cobra", "segundos": 60 }],
-              "videos": ["CATIG2-7Yts", "fGBzMKzFyRk", { "id": "Q5G8CYAGs0U", "tipo": "video" }]
+              "timer": [
+                {
+                  "label": "Cobra",
+                  "segundos": 60
+                }
+              ],
+              "videos": [
+                "CATIG2-7Yts",
+                "fGBzMKzFyRk",
+                {
+                  "id": "Q5G8CYAGs0U",
+                  "tipo": "video"
+                }
+              ]
             },
             {
               "id": "c6",
@@ -214,8 +359,333 @@
               "prescricao": "1 min",
               "descricao": "Sente sobre os calcanhares e estenda os braços à frente para soltar a lombar.",
               "busca": "postura da criança yoga",
-              "timer": [{ "label": "Postura da criança", "segundos": 60 }],
-              "videos": ["Hm_ec0_fe_o", "2geR7gOGsEs", "YAmAET3Uomk"]
+              "timer": [
+                {
+                  "label": "Postura da criança",
+                  "segundos": 60
+                }
+              ],
+              "videos": [
+                "Hm_ec0_fe_o",
+                "2geR7gOGsEs",
+                "YAmAET3Uomk"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "treino-b",
+      "nome": "Treino B · Padrões opostos, core e resiliência",
+      "descricao": "Mobilidade, força funcional, tabata e descompressão",
+      "fases": [
+        {
+          "id": "p1",
+          "aba": "Aquecimento",
+          "titulo": "Aquecimento e mobilidade",
+          "tempo": "8 a 10 min",
+          "intro": "Prepare as articulações antes da carga.",
+          "chips": [
+            "Em sequência",
+            "Sem descanso"
+          ],
+          "exercicios": [
+            {
+              "id": "mob",
+              "nome": "Mobilidade articular",
+              "prescricao": "20 s de cada rotação",
+              "descricao": "Gire pescoço, ombros, tronco e quadris, 20 segundos em cada articulação, para preparar o corpo.",
+              "busca": "mobilidade articular aquecimento",
+              "timer": [
+                {
+                  "label": "Pescoço",
+                  "segundos": 20
+                },
+                {
+                  "label": "Ombros",
+                  "segundos": 20
+                },
+                {
+                  "label": "Tronco",
+                  "segundos": 20
+                },
+                {
+                  "label": "Quadris",
+                  "segundos": 20
+                }
+              ],
+              "videos": [
+                "jUft857xWzw",
+                "l1SE7PdApEE",
+                {
+                  "id": "RJTezdqvB2A",
+                  "tipo": "video"
+                }
+              ]
+            },
+            {
+              "id": "wgs",
+              "nome": "World's Greatest Stretch",
+              "prescricao": "5 a 6 repetições lentas por lado",
+              "descricao": "Em avanço, apoie as mãos, gire o tronco abrindo o braço para o teto. Foco no quadril e na coluna torácica.",
+              "busca": "world's greatest stretch",
+              "videos": [
+                "LmxFuIUkvu0",
+                "Ittb10IDaQE",
+                "xiHm_kYCRfI"
+              ]
+            },
+            {
+              "id": "boot",
+              "nome": "Bootstrappers ou agachamento com peso corporal",
+              "prescricao": "10 repetições controladas",
+              "descricao": "Segure a ponta dos pés, desça ao agachamento profundo e suba estendendo os joelhos. Sem gerar fadiga.",
+              "busca": "bootstrapper squat",
+              "videos": [
+                "NTA-EId32O0",
+                {
+                  "id": "d903J_eeldQ",
+                  "tipo": "video"
+                },
+                {
+                  "id": "48d1bnh2vKo",
+                  "tipo": "video"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "p2",
+          "aba": "Força",
+          "titulo": "Força e acessórios funcionais",
+          "tempo": "3 séries",
+          "intro": "Circuito contínuo ou super-série. Priorize a estabilidade do core e o controle motor, não a velocidade.",
+          "chips": [
+            "3 rounds",
+            "Controle > velocidade"
+          ],
+          "rounds": 3,
+          "descanso": 60,
+          "exercicios": [
+            {
+              "id": "renegade",
+              "nome": "Push-up rows (renegade rows)",
+              "prescricao": "8 a 10 repetições totais",
+              "descricao": "Em prancha sobre halteres ou kettlebells de base larga, faça a flexão e reme um lado de cada vez sem girar o quadril.",
+              "busca": "renegade row dumbbell",
+              "videos": [
+                "2S0-TUnB56g",
+                "YUMXGLL2IKE",
+                "_4anOEYFxkY"
+              ]
+            },
+            {
+              "id": "bor",
+              "nome": "Kettlebell bent-over row",
+              "prescricao": "8 a 10 por braço",
+              "descricao": "Com o tronco inclinado e a coluna neutra, puxe o kettlebell em direção ao quadril (puxada horizontal).",
+              "busca": "kettlebell bent over row",
+              "videos": [
+                "hPYyyhlgY54",
+                "oukavGfXImk",
+                {
+                  "id": "Y-mj8Z_rpW0",
+                  "tipo": "video"
+                }
+              ]
+            },
+            {
+              "id": "tgu",
+              "nome": "Turkish get-up (ou meio get-up)",
+              "prescricao": "3 a 5 por lado",
+              "descricao": "Levante-se do chão com o kettlebell esticado acima, em etapas controladas. Carga leve ou moderada.",
+              "busca": "kettlebell turkish get up",
+              "videos": [
+                "bfmq5pmVEsk",
+                "u9DURNOx-nQ",
+                {
+                  "id": "nK9pZW-zwMU",
+                  "tipo": "video"
+                }
+              ]
+            },
+            {
+              "id": "rt",
+              "nome": "Russian twist",
+              "prescricao": "15 a 20 repetições",
+              "descricao": "Sentado com o tronco inclinado, segure o kettlebell e gire o tronco de forma sólida de um lado ao outro.",
+              "busca": "kettlebell russian twist",
+              "videos": [
+                "iOZlbeJ41vY",
+                "omwYYlUtRgw",
+                "FwX4gkA7dOM"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "p3",
+          "aba": "Smoker",
+          "titulo": "Cardio smoker · Tabata",
+          "tempo": "4,5 min",
+          "intro": "Abordagem rápida: um bloco de 8 rounds alternando flexão, agachamento e abdominal. Versão avançada (\"Mar grande\"): um tabata inteiro só de flexões, 1 min de descanso, um de abdominais, 1 min de descanso, um de agachamentos.",
+          "chips": [
+            "8 rounds",
+            "20 s on / 10 s off"
+          ],
+          "tabata": {
+            "rounds": 8,
+            "trabalho": 20,
+            "descanso": 10
+          },
+          "exercicios": [
+            {
+              "id": "pu",
+              "nome": "Flexão",
+              "prescricao": "20 s em intensidade máxima",
+              "descricao": "Corpo alinhado, desça até o peito quase tocar o chão.",
+              "busca": "how to push up form",
+              "videos": [
+                "ba8tr1NzwXU",
+                "A-2re9hs990",
+                "14D-2c9kvVw"
+              ]
+            },
+            {
+              "id": "sq",
+              "nome": "Agachamento",
+              "prescricao": "20 s em intensidade máxima",
+              "descricao": "Pés na largura do quadril, desça com o peito aberto e suba com força.",
+              "busca": "bodyweight squat form",
+              "videos": [
+                "H9GIaOK2vBc",
+                "Qgpxx1Bxmgs",
+                "IYOMod4X25Y"
+              ]
+            },
+            {
+              "id": "su",
+              "nome": "Abdominal (sit-up)",
+              "prescricao": "20 s em intensidade máxima",
+              "descricao": "Deitado com joelhos dobrados, suba o tronco usando o abdômen, sem puxar o pescoço.",
+              "busca": "how to do a sit up",
+              "videos": [
+                "L08dnOOCzcc",
+                "okaT8Uarzek",
+                {
+                  "id": "p8vthDMZs4I",
+                  "tipo": "video"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "p4",
+          "aba": "Volta",
+          "titulo": "Resfriamento e descompressão",
+          "tempo": "5 a 7 min",
+          "intro": "Segure cada posição no máximo tolerável, sem dor.",
+          "chips": [
+            "1 min por posição",
+            "4 posições"
+          ],
+          "exercicios": [
+            {
+              "id": "c1",
+              "nome": "Postura da criança",
+              "prescricao": "1 min",
+              "descricao": "Sente sobre os calcanhares e estenda os braços à frente para soltar a lombar.",
+              "busca": "postura da criança yoga",
+              "timer": [
+                {
+                  "label": "Postura da criança",
+                  "segundos": 60
+                }
+              ],
+              "videos": [
+                "Hm_ec0_fe_o",
+                "2geR7gOGsEs",
+                "YAmAET3Uomk"
+              ]
+            },
+            {
+              "id": "c2",
+              "nome": "Extensão da coluna (cobra) e flexão",
+              "prescricao": "1 min",
+              "descricao": "Deitado de bruços, empurre o tronco para cima (cobra) e depois leve o quadril aos calcanhares (flexão), sem forçar a lombar.",
+              "busca": "postura da cobra e postura da criança yoga",
+              "timer": [
+                {
+                  "label": "Cobra",
+                  "segundos": 60
+                }
+              ],
+              "videos": [
+                "CATIG2-7Yts",
+                "fGBzMKzFyRk",
+                {
+                  "id": "Q5G8CYAGs0U",
+                  "tipo": "video"
+                }
+              ]
+            },
+            {
+              "id": "c3",
+              "nome": "Peitorais e ombros atrás das costas",
+              "prescricao": "1 min",
+              "descricao": "Entrelace as mãos atrás das costas e abra o peito, alongando peitorais e ombros.",
+              "busca": "alongamento ombros atrás das costas",
+              "timer": [
+                {
+                  "label": "Ombros atrás das costas",
+                  "segundos": 60
+                }
+              ],
+              "videos": [
+                {
+                  "id": "iFO5kSnp-zE",
+                  "tipo": "video"
+                },
+                {
+                  "id": "6zczuiRx5pk",
+                  "tipo": "video"
+                },
+                {
+                  "id": "BZT-GBZ--I0",
+                  "tipo": "video"
+                }
+              ]
+            },
+            {
+              "id": "c4",
+              "nome": "Isquiotibiais e quadril",
+              "prescricao": "1 min por perna",
+              "descricao": "Alongue a parte de trás da coxa e o quadril de cada lado, com a coluna alongada.",
+              "busca": "alongamento isquiotibiais e quadril",
+              "timer": [
+                {
+                  "label": "Perna direita",
+                  "segundos": 60
+                },
+                {
+                  "label": "Perna esquerda",
+                  "segundos": 60
+                }
+              ],
+              "videos": [
+                {
+                  "id": "eZUi5HzaSSM",
+                  "tipo": "video"
+                },
+                {
+                  "id": "HUxyBCMplLI",
+                  "tipo": "video"
+                },
+                "CLAl-razYow"
+              ]
             }
           ]
         }
