@@ -693,6 +693,329 @@
           ]
         }
       ]
+    },
+    {
+      "id": "treino-c",
+      "nome": "Treino C · Pernas, quadril e explosão",
+      "descricao": "Mobilidade, força de pernas, finisher de pop-up e descompressão",
+      "fases": [
+        {
+          "id": "p1",
+          "aba": "Aquecimento",
+          "titulo": "Aquecimento e mobilidade articular",
+          "tempo": "10 min",
+          "intro": "Prepare quadris, tornozelos e coluna antes de pegar peso.",
+          "chips": [
+            "Em sequência",
+            "Sem descanso"
+          ],
+          "exercicios": [
+            {
+              "id": "mob",
+              "nome": "Mobilidade geral",
+              "prescricao": "3 min · 10 a 15 rotações por articulação",
+              "descricao": "Rotações articulares controladas de pescoço, ombros, tronco, quadris e tornozelos.",
+              "busca": "mobilidade articular aquecimento",
+              "timer": [
+                {
+                  "label": "Mobilidade geral",
+                  "segundos": 180
+                }
+              ],
+              "videos": [
+                "jUft857xWzw",
+                "l1SE7PdApEE",
+                {
+                  "id": "RJTezdqvB2A",
+                  "tipo": "video"
+                }
+              ]
+            },
+            {
+              "id": "tripod",
+              "nome": "Tripod reach",
+              "prescricao": "5 lentas por lado",
+              "descricao": "Sentado na posição 90/90, eleve o quadril contraindo os glúteos e alcance com o braço oposto acima da cabeça.",
+              "busca": "tripod reach 90 90 hip thoracic mobility",
+              "videos": [
+                {
+                  "id": "pIypG4IqTVY",
+                  "tipo": "video"
+                },
+                "Wf5qplj5xlQ"
+              ]
+            },
+            {
+              "id": "pend",
+              "nome": "Pendulum squat",
+              "prescricao": "10 repetições fluidas",
+              "descricao": "Alcance o chão entre as pernas empurrando o quadril para trás e desça direto em agachamento profundo elevando os braços.",
+              "busca": "deep squat to hamstring stretch mobility",
+              "videos": [
+                "ILQe23L2vWM",
+                "jMlgaz0Z9No",
+                {
+                  "id": "Y63JXUVlSp0",
+                  "tipo": "video"
+                }
+              ]
+            },
+            {
+              "id": "asian",
+              "nome": "Asian squat",
+              "prescricao": "15 a 20 s em 3 larguras de base",
+              "descricao": "Agache o máximo que conseguir com os pés para frente e os calcanhares apoiados, cotovelos por dentro dos joelhos abrindo o quadril, girando suavemente de um lado para o outro. Bases: largura do quadril, dos ombros e mais aberta que os ombros.",
+              "busca": "asian squat tutorial heels down",
+              "timer": [
+                {
+                  "label": "Largura do quadril",
+                  "segundos": 20
+                },
+                {
+                  "label": "Largura dos ombros",
+                  "segundos": 20
+                },
+                {
+                  "label": "Mais aberto que os ombros",
+                  "segundos": 20
+                }
+              ],
+              "videos": [
+                "ij21g67n6BI",
+                "a4OLoEJkmTo",
+                "3VglX2bqKAQ"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "p2",
+          "aba": "Força",
+          "titulo": "Força de pernas, quadril e explosão",
+          "tempo": "25 a 30 min",
+          "intro": "Circuito controlado. Descanse só no fim de cada round.",
+          "chips": [
+            "3 a 4 rounds",
+            "90 s de pausa entre rounds"
+          ],
+          "rounds": 4,
+          "descanso": 90,
+          "exercicios": [
+            {
+              "id": "kbdl",
+              "nome": "Kettlebell deadlift (ou double)",
+              "prescricao": "10 a 12 · carga moderada/pesada",
+              "descricao": "Empurre o quadril para trás com a coluna neutra e suba contraindo os glúteos. Foco em cadeia posterior e proteção lombar.",
+              "busca": "kettlebell deadlift form",
+              "videos": [
+                "sGn0HnMWvdU",
+                "TdQ2EG7VOpk",
+                "XwwAp7BmPbI"
+              ]
+            },
+            {
+              "id": "bulg",
+              "nome": "Agachamento búlgaro (ou afundo reverso)",
+              "prescricao": "8 por perna",
+              "descricao": "Pé de trás apoiado no banco, desça controlando o joelho da frente. Alternativa: afundo reverso com kettlebell. Fortalece a base unilateral e a estabilidade de joelho e tornozelo.",
+              "busca": "dumbbell bulgarian split squat form",
+              "videos": [
+                "iwV9rTHKrOg",
+                "or1frhkjBDc",
+                "YKJyUkMfjjE"
+              ]
+            },
+            {
+              "id": "kbjump",
+              "nome": "Kettlebell jump squat",
+              "prescricao": "6 a 8 · carga leve",
+              "descricao": "Segure o kettlebell junto ao peito, agache e salte de forma explosiva, aterrissando macio.",
+              "busca": "kettlebell goblet jump squat",
+              "videos": [
+                "uxOwwCZ0mww",
+                {
+                  "id": "t6n3a-I1i_Q",
+                  "tipo": "video"
+                }
+              ]
+            },
+            {
+              "id": "rsp",
+              "nome": "Rolling side plank",
+              "prescricao": "8 controladas por lado",
+              "descricao": "Role de uma prancha lateral para a prancha frontal e para o outro lado, com controle. Trabalha core rotacional e oblíquos sem sobrecarregar os ombros.",
+              "busca": "rolling side plank",
+              "videos": [
+                {
+                  "id": "sQ2Etv4evSw",
+                  "tipo": "video"
+                },
+                "bImo028zpSM"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "p3",
+          "aba": "Finisher",
+          "titulo": "Cardio finisher · Pop-up",
+          "tempo": "5 min",
+          "intro": "Rounds ímpares: surfer burpees. Rounds pares: kettlebell swings.",
+          "chips": [
+            "8 rounds",
+            "20 s on / 10 s off"
+          ],
+          "tabata": {
+            "rounds": 8,
+            "trabalho": 20,
+            "descanso": 10
+          },
+          "exercicios": [
+            {
+              "id": "surfb",
+              "nome": "Surfer burpees",
+              "prescricao": "20 s em intensidade máxima",
+              "descricao": "Faça o burpee girando os quadris no salto para cair na base da prancha. Com os ombros cansados, faça half-burpees sem a flexão.",
+              "busca": "surfer burpee pop up",
+              "videos": [
+                {
+                  "id": "MTxjAdWZ-_c",
+                  "tipo": "video"
+                },
+                {
+                  "id": "qvyRlSkW7Ro",
+                  "tipo": "video"
+                },
+                {
+                  "id": "K-EeleAVaVI",
+                  "tipo": "video"
+                }
+              ]
+            },
+            {
+              "id": "ksw",
+              "nome": "Kettlebell swings",
+              "prescricao": "20 s · carga moderada",
+              "descricao": "Explosão pura de quadril e resistência lombar.",
+              "busca": "kettlebell swing form",
+              "videos": [
+                "9TvZBjLFEbs",
+                "KUGEAe0aZ2A"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "p4",
+          "aba": "Volta",
+          "titulo": "Resfriamento e descompressão",
+          "tempo": "5 a 7 min",
+          "intro": "Passe o rolo antes de alongar. Segure cada posição sem dor.",
+          "chips": [
+            "Rolinho primeiro",
+            "1 min por posição"
+          ],
+          "exercicios": [
+            {
+              "id": "rolo",
+              "nome": "Liberação miofascial (rolinho)",
+              "prescricao": "2 min",
+              "descricao": "Passe o rolo na panturrilha, posterior de coxa, glúteos e região torácica.",
+              "busca": "foam roller calves hamstrings glutes upper back",
+              "timer": [
+                {
+                  "label": "Rolinho",
+                  "segundos": 120
+                }
+              ],
+              "videos": [
+                "YAz9yH_q9os",
+                "2tjKj_FnoLc",
+                "GPblqxpZXbE"
+              ]
+            },
+            {
+              "id": "c6",
+              "nome": "Postura da criança",
+              "prescricao": "1 min",
+              "descricao": "Sente sobre os calcanhares e estenda os braços à frente para descomprimir a lombar e relaxar os ombros.",
+              "busca": "postura da criança yoga",
+              "timer": [
+                {
+                  "label": "Postura da criança",
+                  "segundos": 60
+                }
+              ],
+              "videos": [
+                "Hm_ec0_fe_o",
+                "2geR7gOGsEs",
+                "YAmAET3Uomk"
+              ]
+            },
+            {
+              "id": "hipk",
+              "nome": "Hip flexor stretch (meio ajoelhado)",
+              "prescricao": "1 min por perna",
+              "descricao": "Em meio ajoelhamento, contraia o glúteo da perna de trás e leve o quadril levemente à frente. Alonga flexores de quadril e quadríceps.",
+              "busca": "half kneeling hip flexor stretch",
+              "timer": [
+                {
+                  "label": "Perna direita",
+                  "segundos": 60
+                },
+                {
+                  "label": "Perna esquerda",
+                  "segundos": 60
+                }
+              ],
+              "videos": [
+                "V01aVqxOhbU",
+                "QtnvAYy86mg",
+                "EVcnudMqQCE"
+              ]
+            },
+            {
+              "id": "c3",
+              "nome": "Isquiotibiais em pé",
+              "prescricao": "1 min",
+              "descricao": "Alongue a parte de trás da coxa mantendo a coluna alongada.",
+              "busca": "alongamento isquiotibiais em pé",
+              "timer": [
+                {
+                  "label": "Isquiotibiais",
+                  "segundos": 60
+                }
+              ],
+              "videos": [
+                "TZVJY8BwjyA",
+                "2GNYV8I_Jws",
+                "0zepzp5kXBo"
+              ]
+            },
+            {
+              "id": "c5",
+              "nome": "Extensão da coluna (cobra)",
+              "prescricao": "1 min",
+              "descricao": "Deitado de bruços, empurre o tronco para cima com os braços, sem forçar a lombar.",
+              "busca": "postura da cobra yoga",
+              "timer": [
+                {
+                  "label": "Cobra",
+                  "segundos": 60
+                }
+              ],
+              "videos": [
+                "CATIG2-7Yts",
+                "fGBzMKzFyRk",
+                {
+                  "id": "Q5G8CYAGs0U",
+                  "tipo": "video"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
